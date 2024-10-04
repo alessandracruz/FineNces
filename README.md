@@ -54,7 +54,7 @@ Outras funcionalidades:
     - **[Google Colab](https://colab.research.google.com/notebook)** (Não é necessário instalação).
 
 ## ⚙️ Executar o projeto:
-- Fazer o clone do repositório do projeto [Sistema_Controle_Financeiro](https://github.com/FelipeBZanardo/Sistema_Controle_Financeiro);
+- Fazer o clone do repositório do projeto [FineNces](https://github.com/alessandracruz/FineNces);
 - Abrir o arquivo **Projeto_LPII.ipynb** na IDE;
 - Caso o arquivo **banco_dados.csv** (presente no repositório do projeto) esteja na mesma pasta, Registros iniciais serão carregados para melhor desempenho e teste do projeto;
 - Selecionar a opção "Run All" para iniciar todas as funções, inclusive a do menu principal;
