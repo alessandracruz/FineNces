@@ -87,5 +87,3 @@ Outras funcionalidades:
 
 ## 📺 Apresentação
 (https://www.canva.com/design/DAGN6v-N5wY/0vncuYt_SkjzmkkjGtA04g/edit)
-
-
